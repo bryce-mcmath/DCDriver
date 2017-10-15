@@ -1,4 +1,4 @@
-##PWM Control of a DC Motor
+## PWM Control of a DC Motor
 
 This is a quick arduino script to test a DC motor driver. 
 
